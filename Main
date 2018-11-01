@@ -1,0 +1,12 @@
+public class Main {
+
+    public static void main(String[] args) {
+       // System.out.println("***KemTech Software***");
+        Employee e = new Employee();
+        e.display();
+        e.Info();
+        e.Count();
+        e.exit();
+
+    }
+}
