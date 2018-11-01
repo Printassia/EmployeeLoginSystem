@@ -1,5 +1,6 @@
 # EmployeeLoginSystem
 import java.util.Scanner;
+
 public class Employee {
 
     String firstName, lastName,response;
